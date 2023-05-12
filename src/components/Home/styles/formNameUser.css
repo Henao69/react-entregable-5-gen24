@@ -1,0 +1,16 @@
+.form__user{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+.form__user-input{
+    font-size: 1.1rem;
+    padding: 0.6em 1.2em;
+}
+.form__bnt{
+    font-size: 1.1rem;
+    padding: 0 1em;
+    background-color: #D93F3F;
+    color: white;
+    cursor: pointer;
+}

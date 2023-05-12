@@ -1,0 +1,23 @@
+.home{
+    font-size: 1.4rem;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.home__section{
+    gap: 0.4em;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.home__img{
+    width: 50%;
+}
+.home__title{
+    color: red;
+}
+.home__footer{
+    margin-top: auto;
+}
